@@ -1,73 +1,33 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Good Design
+subtitle: A good design found around the Williams Campus
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
-
-**Here is some bold text**
-
-## Here is a secondary heading
-
-Here's a useless table:
-
-| Number | Next number | Previous number |
-| :------ |:--- | :--- |
-| Five | Six | Four |
-| Ten | Eleven | Nine |
-| Seven | Eight | Six |
-| Two | Three | One |
+The Williams College Course Catalog is an example of a good design.  It offers the user the ability to seamlessly navigate between subject, when courses are offered, and the specifics/requirements of every course. 
 
 
-How about a yummy crepe?
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+## The Steps Involved
 
-Here's a code chunk:
+***1. The Starting Point***
+Here we are able to choose from each class selection.  Each subject is highlighted in light blue to indicate our ability to click.  Subcategories are listed below their respective headers in smaller font.  Clickable links also turn black when the mouse is placed over them, signifying the ability of the user to click through, as is the case on many other websites and computer programs.
 
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
+![gd1](/Users/ryanschmidt/Desktop/gd1.png)
 
-And here is the same code with syntax highlighting:
 
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
+***2. Select a Time of the Year***
+Now that the user has selected the subject, they get to decide exactly which classes they want to look at, whether it be all of them or classes broken down by type or difficulty.
 
-And here is the same code yet again but with line numbers:
+![gd2](/Users/ryanschmidt/Desktop/gd2.png)
 
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
 
-## Boxes
-You can add notification, warning and error boxes like this:
+***3. Select Your Class***
+This portion allows users to select specific course offerings, based on title, time, professor, and enrollment capacity.  Clickable links allow the user to investigate each course offering.  Students typically use this section to prepare for an upcoming semester or last minute to adjust class schedules.  The ability to narrow in by subject, timeframe or difficulty, and finally by specific class gives students the ability to explore a multitude of options, or reach specific options quickly.
 
-### Notification
+![gd3](/Users/ryanschmidt/Desktop/gd3.png)
 
-{: .box-note}
-**Note:** This is a notification box.
 
-### Warning
-
-{: .box-warning}
-**Warning:** This is a warning box.
-
-### Error
-
-{: .box-error}
-**Error:** This is an error box.
