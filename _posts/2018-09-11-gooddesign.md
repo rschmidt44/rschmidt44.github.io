@@ -30,4 +30,6 @@ This portion allows users to select specific course offerings, based on title, t
 
 ![gd3](/img/gd3.png)
 
+All Photos from williams.edu
+
 
