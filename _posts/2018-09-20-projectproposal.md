@@ -15,7 +15,9 @@ After observing WCMA guests during class, it became clear that people do a lot o
 Photo: https://wcma.williams.edu/lex-and-love-meleko-mokgosi/
 
 ![wcma_wseats](/img/wcma_wseats.png)
+
 Photo: Screenshot from WCMA Welcome Video (2:14-https://www.youtube.com/watch?v=v01J9G0oIP8)
+
 
 The problem for the visitor is that the majority of their time may be spent grazing the art spread across the exhibit or not looking at art at all (i.e. while resting).  The problem then faced by the museum is to engage the visitor at all stages of their visit, maximize their viewing, route them purposefully, and most importantly track and analyze those patterns. 
 
