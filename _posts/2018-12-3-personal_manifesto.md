@@ -5,7 +5,8 @@ subtitle:
 --- 
 
 The design process is one in which we strive to combine the wishes of many into something that works well.  In essence you must bridge the gap between, “Good design is when I like it. –Everybody,” and, “[Design] is not just what it looks like and feels like.  Design is how it works. –Steve Jobs” ([Learning to See](https://ia.net/topics/learning-to-see)).  
-![gd1](graph.png)
+![gd1](/graph.png)
+
 ([Learning to See](https://ia.net/topics/learning-to-see))
 
 We end up with something like this, where ideally you get a product that is pretty and works, but at the very least just works.  Ideas that lie in the very top right hand portion of this graph are hard to come by, so how do we get there?  Very rarely will a product be an exact match to every user’s needs.  It’s my job to plan in such a way that my design takes into account as many user characteristics as possible, without throwing other users to the side.  It becomes hard to do that when the way you see a product is not the way your user sees it.  The trouble with being a designer is that “…once we have learned to see design, both good and bad, we cannot un-see it.  The downside is that the more you learn to see, the more you lose your “common” eye, the eye you design for” ([Learning to See](https://ia.net/topics/learning-to-see)).  I do not claim to have developed this “sight” and I still very much look at things with a “common” eye, but the sentiment remains true, even for as an amateur designer, that I inherently lose my ability to objectively judge or understand a product once I’m involved in its design.  Similarly, the issue of designing for what someone says they want, versus what they actually need becomes even more convoluted and at times needs to be addressed directly.  This manifesto will serve to break down the biggest obstacles and crucial factors in approaching design that I have found through self-reflection on my own design process.
@@ -20,7 +21,7 @@ In theory, coming up with a lot of ideas sounds well and good, but in most cases
 ### I am Not the User
 
 I believe one of the cardinal rules of design was to remember that I am not the user.  In the context of museum technology, I found myself constantly thinking, “I go to museums, and so I’m a user.”  This is dangerous because it puts the power entirely in my hands, and I’m not a representative sample.  Even if I do go to museums, so do one thousand other people who have experiences that are nothing like mine, and therefore a design that serves just me misses the mark on serving them as well.  That’s why it’s imperative to remember that a design is best suited to serve the user, not yourself.  One of the big questions I found myself returning to was, “How do I get in the mind of the user?” and, “How do I stay there?”  Through the fly on the wall observations, contextual inquiries, and talking through our ideas with other groups I formed a basic understanding of the users my product was for and then derived tasks to embody those users desires.  This understanding was solidified through the use of storyboards to bring the tasks to life.  Backed by the collected data, the picture unfolded of what the user wanted through what they liked/disliked, what was missing, and what could have been better.  Below is an example of a storyboard that encapsulates a user’s use of the product from start to finish.
-![gd1](agencyStoryBoard.jpg)
+![gd1](/agencyStoryBoard.jpg)
 
 After being able to separate my own wants or needs from that of the users, the next biggest challenge was distinguishing what I thought a user wanted from what the user actually needed.
 
@@ -28,10 +29,10 @@ After being able to separate my own wants or needs from that of the users, the n
 ### Research !=(always) Design—It’s Ok to Correct
 
 One of the trickiest parts of the design process ended up being translating my research into a design.  What made it so tricky is that I, and my group, identified the flaw once we were already pretty far into the design process.  We had chosen a technological medium, made a paper prototype, and had begun user testing.  Below is a picture of our first paper prototype, which included both a kiosk and phone app.
-![gd1](paperPrototype.png)
+![gd1](/paperPrototype.png)
 
 What we found through user testing was that the data we had collected and the tasks we believed users wanted to complete were mostly accurate, but the way in which we designed our product to address the tasks was confusing for users.  What people told us they wanted was not necessarily what they ended up needing.  At first it seemed like our entire process had failed, but by taking a few steps back the group was able to pinpoint the where the design went awry.  I learned that adjusting and testing multiple iterations of a product was not only a good idea, but also gave me confidence in the final product.  I also began to understand that it’s ok to correct, and that I wasn’t expected to get it right on the first try.  After scrapping the kiosks and switching out one of the tasks, our design morphed into this:
-![gd1](digitalMockUp.png)
+![gd1](/digitalMockUp.png)
 
 … a much cleaner and simpler to use product that fit the research and was rated highly with users.  
 
@@ -39,8 +40,8 @@ What we found through user testing was that the data we had collected and the ta
 ### Accesibility: Thinking about the user
 
 As I’ve touched on in multiple places, the user is paramount in the design process.  That means that as a designer I have a responsibility to make my product as accessible to each user as possible.  Phrased in a different way, designs should be inclusive.  Designs can address this in multiple ways.  I believe one of the most effective methods is to “Think POUR”.  This framework comes from Andrew Smyk in his Adobe Blog post([Design With Accessibility in Mind]( https://theblog.adobe.com/design-with-accessibility-in-mind-the-pour-methodology/)).  POUR stands for perceivable, operable, understandable, and robust.  For something to be perceivable, it means that it should embody a structure, such that no matter how the information is presented, the organization remains comprehendible.  Operable refers to the affordances given to the user in order for them to be able to navigate appropriately.  A design is understandable if the perceivable content has meaning and makes sense.  Finally, a design is robust if it is compatible and up to date with standards and/or other technologies.  Encompassed in POUR is an inclusion how-to for designers.  In my own design, we used simple, uncluttered screens to make it perceivable, back and home buttons to make it operable, and clearly defined button/task names as well as contrasted simple color schemes to make it understandable.  The robust stage is mostly left out since our designs are not being developed into apps.  Below are a few examples of our digital mock-ups that illustrate these principles.  
-![gd1](dm.png)
-![gd1](dm4.png)
+![gd1](/dm.png)
+![gd1](/dm4.png)
 
 Had my design been developed into an app, it would have been important to consider screen-readers, information for people with physical or motor disabilities, and incorporating potential keyboard or voice-command use.  
 
