@@ -61,4 +61,8 @@ I believe it is important to take ownership of a design.  Despite regulatory, or
 
 
 
-Designs are built, at their most basic level, to make something we do as people easier or to allow us to do something we otherwise wouldn’t have been able to do.  Everything artificial in the world has been designed to be the way it is (The psychopathology of everyday things).  I’ve learned that the process one takes in design doesn’t have to be extravagant or overly complex.  In fact, there is irony in an overly complex design process yielding a simple design.  Personally, I like to put the burden on my back.  I’m responsible for the premise of my design, addressing the audience of my design, the changes in my design, the implications of my design, and the inclusiveness of my design.  It’s not a seamless process, but it’s a start and one I’ll continue to develop on every design journey I take.
+Designs are built, at their most basic level, to make something we do as people easier or to allow us to do something we otherwise wouldn’t have been able to do.  Everything artificial in the world has been designed to be the way it is (The Design of Everyday Things).  I’ve learned that the process one takes in design doesn’t have to be extravagant or overly complex.  In fact, there is irony in an overly complex design process yielding a simple design.  Personally, I like to put the burden on my back.  I’m responsible for the premise of my design, addressing the audience of my design, the changes in my design, the implications of my design, and the inclusiveness of my design.  It’s not a seamless process, but it’s a start and one I’ll continue to develop on every design journey I take.
+
+
+#### References
+“Chapter 1.” The Design of Everyday Things, by Donald A. Norman, MIT Press, 2013, p. 4.
